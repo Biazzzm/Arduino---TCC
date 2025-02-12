@@ -1,6 +1,4 @@
 
-
-```markdown
 # Arduíno TCC
 
 Este repositório contém os códigos utilizados no projeto de TCC para a detecção de gás e fumaça com a utilização de um Arduino Uno Wi-Fi, ESP8266 e o sensor MQ-2. O código é responsável por monitorar a presença de fumaça ou gás, acionar alertas sonoros e visuais, além de enviar os dados do sensor para a API.
