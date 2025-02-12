@@ -1,7 +1,4 @@
 
----
-
-### README para o repositório **Arduíno TCC**:
 
 ```markdown
 # Arduíno TCC
