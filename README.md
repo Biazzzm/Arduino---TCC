@@ -21,7 +21,7 @@ Este repositório contém os códigos utilizados no projeto de TCC para a detec�
 
 ### Passos para o Upload do Código
 
-1. Faça o upload do código da **Placa Uno Wi-Fi**(_CódigoUno) e do **ESP8266** (_CódigoESP_V4) para as respectivas placas utilizando a IDE do Arduino.
+1. Faça o download do código da **Placa Uno Wi-Fi**(_CódigoUno) e do **ESP8266** (_CódigoESP_V4) para as respectivas placas utilizando a IDE do Arduino.
    
 2. **Configuração das Chaves**:
    - Para **carregar o código na placa Uno Wi-Fi**, altere as **Chaves 3 e 4** para **ON**.
